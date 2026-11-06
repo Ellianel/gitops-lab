@@ -8,6 +8,6 @@ data:
     <html lang="pl">
       <head><meta charset="utf-8"><title>GitOps</title></head>
       <body>
-        <h1>Wersja 2: wdrozone przez Argo CD</h1>
+        <h1>Wersja 3: wdrozone przez Argo CD</h1>
       </body>
     </html>
